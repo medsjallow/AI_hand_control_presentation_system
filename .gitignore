@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +173,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+Pitch/
+ms.pptx
+>>>>>>> 1ad962d (Gesture recognition and voice command is been implemented and is working fine and ready for next improvement)
